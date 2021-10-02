@@ -1,0 +1,34 @@
+[
+    {
+        "location":"France",
+        "city":"Paris",
+        "price":"$50000",
+        "description":"The largest tower in the world",
+        "yearEstablished":"1755",
+        "AverageNoOfVisitorPerYear":"10000"
+    },
+
+
+    {
+        "location":"Nigeria",
+        "city":"Lagos",
+        "price":"$50000",
+        "description":"The giant of Africa",
+        "yearEstablished":"1960",
+        "AverageNoOfVisitorPerYear":"20000"
+    },
+
+
+    {
+        "location":"USA",
+        "city":"Texas",
+        "price":"$5000",
+        "description":"largest state in area except for Alaska ",
+        "yearEstablished":"1845",
+        "AverageNoOfVisitorPerYear":"10000"
+    }
+
+
+
+
+]

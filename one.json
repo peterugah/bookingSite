@@ -1,0 +1,40 @@
+[
+    {
+        "name":"nigeria",
+        "school":"unilag"
+    },
+    {
+        "ref":"ref.json"
+    }
+]
+
+
+{"_id":{"$oid":"614a34adf491e0ab8b890cc5"},"email":"osagie@gmail.com","password":"$2b$10$zJWyKuO/KmwrR31d8kdEu.vH5WgekQ/a1shBK94JA0b4NyiNZXHRC","__v":0}
+
+
+{"_id":{"$oid":"614ce2b1b1edb1cfb70504c7"},"location":"USA","city":"Texas","price":"$5000","description":"largest state in area except for Alaska ","yearEstablished":"1845","AverageNoOfVisitorPerYear":"10000"}
+
+
+{ "checkIn": "Sat Sep 25 2021 08:05:45 GMT-0400 (Eastern Daylight Time)",
+
+    "checkout": "Tue Sep 28 2021 08:05:45 GMT-0400 (Eastern Daylight Time)",
+  
+    "noOfDays": 3,
+    "pricePerday": "{$oid:614ce2b1b1edb1cfb70504c7}",
+    "totalAmount":1500,
+    "user": "{$oid:614a34adf491e0ab8b890cc5}"
+    }
+
+    jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxNGEzNGFkZjQ5MWUwYWI4Yjg5MGNjNSIsImlhdCI6MTYzMjU3MjMyOCwiZXhwIjoxNzE4OTcyMzI4fQ.jsygUtuLvj8xwgZelnOEmSL1L3llPmOw9BzxN_n76MY; Path=/; HttpOnly; Expires=Sun, 26 Sep 2021 12:18:48 GMT;
+
+
+
+
+
+
+    {"_id":{"$oid":"614df2d5a1e3af0384f6c4de"},"name":"baa","email":"shamgysht@gmail.com","password":"$2b$10$Wz3dOUdXuKa9iiFwDCW5x.lmPtY/pwA9qldlEa.9CsSvPcA2GJqvu","phonenumber":"90578886545","country":"nigeria","__v":0}
+
+
+
+    //book
+    {"_id":{"$oid":"614f1ee2aa084684abf39c00"},"checkIn":"Sat Sep 25 2021 08:05:45 GMT-0400 (Eastern Daylight Time)","checkout":"Tue Sep 28 2021 08:05:45 GMT-0400 (Eastern Daylight Time)","noOfDays":3,"pricePerday":"ObjectId(614ce2b1b1edb1cfb70504c7)","totalAmount":1500,"user":"ObjectId(614a34adf491e0ab8b890cc5)","__v":0}
