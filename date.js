@@ -5,6 +5,7 @@ let newCheck = check.setDate(check.getDate() + 3);
 let newDate = new Date(newCheck);
 
 console.log(typeof newDate);
+console.log(typeof newDate);
 
 {
     "checkIn":"Sat Oct 02 2021 08:46:49 GMT-0400 (Eastern Daylight Time)",
